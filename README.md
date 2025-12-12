@@ -1,6 +1,6 @@
 # FormularioEventos# Formulario de Eventos GCSSO
 
-Este proyecto implementa el formulario **[3.2.2] Formulario de eventos** descrito en el informe de análisis y diseño del sitio web GCSSO.  
+Este proyecto implementa el **Formulario de eventos** descrito en el informe de análisis y diseño del sitio web GCSSO.  
 El formulario permite crear eventos con título, descripción, fecha, hora, ubicación, responsable, categoría, documentos asociados y notificaciones.
 
 ---
